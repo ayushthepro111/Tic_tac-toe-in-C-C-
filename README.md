@@ -210,4 +210,9 @@ void printWinner(char winner)
 ---
 Thanks & Regards 
 Ayushthepro111
-follow me on twitter [Click Here To Visit My Twitter And Follow Me](https://twitter.com/ayushma60129529)
+follow me on twitter => [Click Here To Visit My Twitter And Follow Me](https://twitter.com/ayushma60129529)
+
+##ScreenShots
+![imgs](https://user-images.githubusercontent.com/103628088/200171465-60e8b9c9-6dfe-4a56-9425-c1655b054e9b.png)
+![imgs](https://user-images.githubusercontent.com/103628088/200171514-01dfec8b-333e-40c0-842c-b20308404731.png)
+<img width="670" alt="imgs" src="https://user-images.githubusercontent.com/103628088/200171548-9912a825-c5d8-4535-8122-753c88e8424a.png">

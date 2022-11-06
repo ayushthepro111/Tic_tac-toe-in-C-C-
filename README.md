@@ -207,6 +207,7 @@ void printWinner(char winner)
         } 
 }
 ```
+---
 Thanks & Regards 
 Ayushthepro111
 follow me on twitter #ayushplaysthe_pro11

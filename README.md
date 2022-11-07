@@ -2,7 +2,7 @@
 A simple and easy C/C++ tic tac toe game
 
 ## Code
-```C++
+```C
 #include <stdio.h> 
 #include <stdlib.h>
 #include <ctype.h>
